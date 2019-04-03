@@ -1,0 +1,11 @@
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.csprojAssemblyReference.cache
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.csproj.CoreCompileInputs.cache
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.AssemblyInfoInputs.cache
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.AssemblyInfo.cs
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\bin\Debug\netcoreapp2.0\IntegerSwapper.deps.json
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\bin\Debug\netcoreapp2.0\IntegerSwapper.runtimeconfig.json
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\bin\Debug\netcoreapp2.0\IntegerSwapper.runtimeconfig.dev.json
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\bin\Debug\netcoreapp2.0\IntegerSwapper.dll
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\bin\Debug\netcoreapp2.0\IntegerSwapper.pdb
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.dll
+C:\Users\albym\VSCODE\IntSwapper\IntegerSwapper\obj\Debug\netcoreapp2.0\IntegerSwapper.pdb
